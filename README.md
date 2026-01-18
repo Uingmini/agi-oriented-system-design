@@ -1,3 +1,8 @@
+## Repository structure
+- 📄 docs/ – Final PDF documents
+- 🧾 versions/ – Release notes
+- 📘 README.md – Overview and links
+
 # AGI-Oriented System Design Principles
 
 This repository hosts the public release of:
