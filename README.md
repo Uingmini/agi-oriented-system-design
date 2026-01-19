@@ -5,8 +5,6 @@
 
 # AGI-Oriented System Design Principles
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18294308-blue)](https://doi.org/10.5281/zenodo.18294308)
-
 **DOI (concept):**  
 https://doi.org/10.5281/zenodo.18294308
 
