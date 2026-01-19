@@ -5,6 +5,11 @@
 
 # AGI-Oriented System Design Principles
 
+## Abstract
+This work proposes a non-agentic, modular approach to AGI design, emphasizing
+responsibility separation, human oversight, and governance-aware architectures
+as a safer alternative to fully agentic systems.
+
 ## Citation
 
 **DOI (concept):**  
@@ -14,14 +19,6 @@ This repository hosts the public release of:
 
 **AGI-Oriented System Design Principles:  
 Non-Agentic Intelligence Architecture and the Separation of Responsibility**
-
-## Abstract
-This work proposes a non-agentic, modular approach to AGI design, emphasizing
-responsibility separation, human oversight, and governance-aware architectures
-as a safer alternative to fully agentic systems.
-
-## Official DOI (Zenodo)
-📌 https://doi.org/10.5281/zenodo.18294308
 
 > The Zenodo record is the authoritative, citable version of this work.
 
