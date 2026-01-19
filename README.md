@@ -6,7 +6,7 @@
 # AGI-Oriented System Design Principles
 
 <a href="https://doi.org/10.5281/zenodo.18294308">
-  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18294308.png" height="28">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18294308.png" height="24">
 </a>
 
 This repository hosts the public release of:
