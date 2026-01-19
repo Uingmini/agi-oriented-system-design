@@ -5,6 +5,8 @@
 
 # AGI-Oriented System Design Principles
 
+## Citation
+
 **DOI (concept):**  
 https://doi.org/10.5281/zenodo.18294308
 
