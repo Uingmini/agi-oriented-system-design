@@ -29,6 +29,7 @@ Non-Agentic Intelligence Architecture and the Separation of Responsibility**
 ## Version
 - v1.0 – Initial public release
 - v1.1 - ENG file Update
+- v1.2 - Added and revised rebuttal content
 
 ## License
 This work is licensed under **CC BY 4.0**.
